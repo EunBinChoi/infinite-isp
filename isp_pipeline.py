@@ -33,7 +33,7 @@ from modules.sharpen import Sharpening as SHARP
 from modules.auto_exposure import AutoExposure as AE
 
 #Path to configuration file
-config_path = './config/configs.yml'
+config_path = 'config/configs.yml'
 
 #not to jumble any tags
 yaml.preserve_quotes = True
