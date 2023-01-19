@@ -1,4 +1,4 @@
-# File: formation.py
+# File: ldr.py
 # Description: Common helper functions for all algorithms 
 # Code / Paper  Reference: 
 # Author: xx-isp (ispinfinite@gmail.com)
